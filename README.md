@@ -71,7 +71,7 @@ const result = await generateSEBConfig(
 );
 ```
 
-## Config Key Generation and Verification
+### Config Key Generation and Verification
 
 The Config Key feature allows exam systems to verify that SEB clients are using the correct configuration.
 
